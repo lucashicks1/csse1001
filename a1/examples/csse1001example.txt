@@ -1,0 +1,189 @@
+Enter guess 1: python
+---------------
+Guess 1:  p y t h o n
+         ⬛🟨⬛⬛🟩🟩
+---------------
+
+Enter guess 2: crayon
+---------------
+Guess 1:  p y t h o n
+         ⬛🟨⬛⬛🟩🟩
+---------------
+Guess 2:  c r a y o n
+         🟩🟩🟩🟩🟩🟩
+---------------
+
+Correct! You won in 2 guesses!
+
+Games won in:
+1 moves: 0
+2 moves: 1
+3 moves: 0
+4 moves: 0
+5 moves: 0
+6 moves: 0
+Games lost: 0
+Would you like to play again (y/n)? y
+Enter guess 1: python
+---------------
+Guess 1:  p y t h o n
+         ⬛⬛⬛⬛⬛⬛
+---------------
+
+Enter guess 2: feasts
+---------------
+Guess 1:  p y t h o n
+         ⬛⬛⬛⬛⬛⬛
+---------------
+Guess 2:  f e a s t s
+         ⬛⬛⬛⬛⬛🟩
+---------------
+
+Enter guess 3: charms
+---------------
+Guess 1:  p y t h o n
+         ⬛⬛⬛⬛⬛⬛
+---------------
+Guess 2:  f e a s t s
+         ⬛⬛⬛⬛⬛🟩
+---------------
+Guess 3:  c h a r m s
+         🟩⬛⬛⬛🟨🟩
+---------------
+
+Enter guess 4: k
+
+Keyboard information
+------------
+a: ⬛	b:  
+c: 🟩	d:  
+e: ⬛	f: ⬛
+g:  	h: ⬛
+i:  	j:  
+k:  	l:  
+m: 🟨	n: ⬛
+o: ⬛	p: ⬛
+q:  	r: ⬛
+s: 🟩	t: ⬛
+u:  	v:  
+w:  	x:  
+y: ⬛	z:  
+
+Enter guess 4: climbs
+---------------
+Guess 1:  p y t h o n
+         ⬛⬛⬛⬛⬛⬛
+---------------
+Guess 2:  f e a s t s
+         ⬛⬛⬛⬛⬛🟩
+---------------
+Guess 3:  c h a r m s
+         🟩⬛⬛⬛🟨🟩
+---------------
+Guess 4:  c l i m b s
+         🟩🟩🟩🟩🟩🟩
+---------------
+
+Correct! You won in 4 guesses!
+
+Games won in:
+1 moves: 0
+2 moves: 1
+3 moves: 0
+4 moves: 1
+5 moves: 0
+6 moves: 0
+Games lost: 0
+Would you like to play again (y/n)? y
+Enter guess 1: python
+---------------
+Guess 1:  p y t h o n
+         ⬛⬛🟩⬛🟨⬛
+---------------
+
+Enter guess 2: ethics
+---------------
+Guess 1:  p y t h o n
+         ⬛⬛🟩⬛🟨⬛
+---------------
+Guess 2:  e t h i c s
+         🟨🟨⬛⬛⬛⬛
+---------------
+
+Enter guess 3: favour
+---------------
+Guess 1:  p y t h o n
+         ⬛⬛🟩⬛🟨⬛
+---------------
+Guess 2:  e t h i c s
+         🟨🟨⬛⬛⬛⬛
+---------------
+Guess 3:  f a v o u r
+         ⬛🟨⬛🟨🟨⬛
+---------------
+
+Enter guess 4: hourly
+---------------
+Guess 1:  p y t h o n
+         ⬛⬛🟩⬛🟨⬛
+---------------
+Guess 2:  e t h i c s
+         🟨🟨⬛⬛⬛⬛
+---------------
+Guess 3:  f a v o u r
+         ⬛🟨⬛🟨🟨⬛
+---------------
+Guess 4:  h o u r l y
+         ⬛🟨🟨⬛⬛⬛
+---------------
+
+Enter guess 5: humble
+---------------
+Guess 1:  p y t h o n
+         ⬛⬛🟩⬛🟨⬛
+---------------
+Guess 2:  e t h i c s
+         🟨🟨⬛⬛⬛⬛
+---------------
+Guess 3:  f a v o u r
+         ⬛🟨⬛🟨🟨⬛
+---------------
+Guess 4:  h o u r l y
+         ⬛🟨🟨⬛⬛⬛
+---------------
+Guess 5:  h u m b l e
+         ⬛🟩⬛⬛⬛🟩
+---------------
+
+Enter guess 6: polite
+---------------
+Guess 1:  p y t h o n
+         ⬛⬛🟩⬛🟨⬛
+---------------
+Guess 2:  e t h i c s
+         🟨🟨⬛⬛⬛⬛
+---------------
+Guess 3:  f a v o u r
+         ⬛🟨⬛🟨🟨⬛
+---------------
+Guess 4:  h o u r l y
+         ⬛🟨🟨⬛⬛⬛
+---------------
+Guess 5:  h u m b l e
+         ⬛🟩⬛⬛⬛🟩
+---------------
+Guess 6:  p o l i t e
+         ⬛🟨⬛⬛🟨🟩
+---------------
+
+You lose! The answer was: outage
+
+Games won in:
+1 moves: 0
+2 moves: 1
+3 moves: 0
+4 moves: 1
+5 moves: 0
+6 moves: 0
+Games lost: 1
+Would you like to play again (y/n)? n

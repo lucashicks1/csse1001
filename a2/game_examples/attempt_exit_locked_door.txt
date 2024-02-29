@@ -1,0 +1,226 @@
+Enter game file: games/game3.txt
+#####
+# C D
+# C #
+P CC#
+#####
+---------------
+Inventory
+Empty
+---------------
+HP: 100
+hunger: 0
+thirst: 0
+
+Enter a move: d
+#####
+# C D
+# C #
+ PCC#
+#####
+---------------
+Inventory
+Empty
+---------------
+HP: 99
+hunger: 0
+thirst: 0
+
+Enter a move: d
+#####
+# C D
+# C #
+  PC#
+#####
+---------------
+Inventory
+Coin: 1
+---------------
+HP: 98
+hunger: 0
+thirst: 0
+
+Enter a move: w
+#####
+# C D
+# P #
+   C#
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 97
+hunger: 0
+thirst: 0
+
+Enter a move: w
+#####
+# P D
+#   #
+   C#
+#####
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 96
+hunger: 0
+thirst: 0
+
+Enter a move: d
+#####
+#  PD
+#   #
+   C#
+#####
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 95
+hunger: 1
+thirst: 1
+
+Enter a move: d
+#####
+#  PD
+#   #
+   C#
+#####
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 95
+hunger: 1
+thirst: 1
+
+Enter a move: d
+#####
+#  PD
+#   #
+   C#
+#####
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 95
+hunger: 1
+thirst: 1
+
+Enter a move: d
+#####
+#  PD
+#   #
+   C#
+#####
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 95
+hunger: 1
+thirst: 1
+
+Enter a move: s
+#####
+#   D
+#  P#
+   C#
+#####
+---------------
+Inventory
+Coin: 3
+---------------
+HP: 94
+hunger: 1
+thirst: 1
+
+Enter a move: s
+#####
+#    
+#   #
+   P#
+#####
+---------------
+Inventory
+Coin: 4
+---------------
+HP: 93
+hunger: 1
+thirst: 1
+
+Enter a move: w
+#####
+#    
+#  P#
+    #
+#####
+---------------
+Inventory
+Coin: 4
+---------------
+HP: 92
+hunger: 1
+thirst: 1
+
+Enter a move: w
+#####
+#  P 
+#   #
+    #
+#####
+---------------
+Inventory
+Coin: 4
+---------------
+HP: 91
+hunger: 1
+thirst: 1
+
+Enter a move: d
+#####
+#   P
+#   #
+    #
+#####
+---------------
+Inventory
+Coin: 4
+---------------
+HP: 90
+hunger: 2
+thirst: 2
+
+Enter a move: d
+###################
+#  #   #    #M    #
+P ## # # ## # ### #
+#    #M  C#C#C#  M#
+#########C#C#C# ###
+# A     #C#CCC#  H#
+# ##### ####### # #
+# #CCC#       # # #
+# ###CCC##### ### #
+#   ##### #      C#
+# #    #  H #####C#
+# #### ######   #C#
+#   #  #   #  # #C#
+### # ## # # ## ###
+#  M#    # #  #   D
+#C######## ## ### #
+#C#         # #   #
+#C# ######### #####
+#C#     A     CCCC#
+###################
+---------------
+Inventory
+Coin: 4
+---------------
+HP: 90
+hunger: 2
+thirst: 2
+
+Enter a move: 

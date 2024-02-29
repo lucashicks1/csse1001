@@ -1,0 +1,17 @@
+<inventory:Coin((3, 2)),,Coin((2, 2)),,Coin((1, 2)),,;entities:{};player_pos:(1, 2);stats:(96, 0, 0);level_num:0;num_moves:4;time:(0, 5);>
+
+Maze 1 - 5 5
+#####
+# C D
+# C #
+P C #
+#####
+
+Maze 2 - 7 8
+########
+P      #
+###### #
+#      #
+# ######
+#      #
+######D#

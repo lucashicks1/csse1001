@@ -1,0 +1,702 @@
+Enter game file: games/game1.txt
+#####
+# C D
+# C #
+P C #
+#####
+---------------
+Inventory
+Empty
+---------------
+HP: 100
+hunger: 0
+thirst: 0
+
+Enter a move: d
+#####
+# C D
+# C #
+ PC #
+#####
+---------------
+Inventory
+Empty
+---------------
+HP: 99
+hunger: 0
+thirst: 0
+
+Enter a move: d
+#####
+# C D
+# C #
+  P #
+#####
+---------------
+Inventory
+Coin: 1
+---------------
+HP: 98
+hunger: 0
+thirst: 0
+
+Enter a move: d
+#####
+# C D
+# C #
+   P#
+#####
+---------------
+Inventory
+Coin: 1
+---------------
+HP: 97
+hunger: 0
+thirst: 0
+
+Enter a move: w
+#####
+# C D
+# CP#
+    #
+#####
+---------------
+Inventory
+Coin: 1
+---------------
+HP: 96
+hunger: 0
+thirst: 0
+
+Enter a move: w
+#####
+# CPD
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 1
+---------------
+HP: 95
+hunger: 1
+thirst: 1
+
+Enter a move: a
+#####
+# P D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 94
+hunger: 1
+thirst: 1
+
+Enter a move: a
+#####
+#P  D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 93
+hunger: 1
+thirst: 1
+
+Enter a move: s
+#####
+#   D
+#PC #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 92
+hunger: 1
+thirst: 1
+
+Enter a move: s
+#####
+#   D
+# C #
+ P  #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 91
+hunger: 1
+thirst: 1
+
+Enter a move: d
+#####
+#   D
+# C #
+  P #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 90
+hunger: 2
+thirst: 2
+
+Enter a move: d
+#####
+#   D
+# C #
+   P#
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 89
+hunger: 2
+thirst: 2
+
+Enter a move: w
+#####
+#   D
+# CP#
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 88
+hunger: 2
+thirst: 2
+
+Enter a move: w
+#####
+#  PD
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 87
+hunger: 2
+thirst: 2
+
+Enter a move: a
+#####
+# P D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 86
+hunger: 2
+thirst: 2
+
+Enter a move: a
+#####
+#P  D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 85
+hunger: 3
+thirst: 3
+
+Enter a move: s
+#####
+#   D
+#PC #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 84
+hunger: 3
+thirst: 3
+
+Enter a move: s
+#####
+#   D
+# C #
+ P  #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 83
+hunger: 3
+thirst: 3
+
+Enter a move: d
+#####
+#   D
+# C #
+  P #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 82
+hunger: 3
+thirst: 3
+
+Enter a move: d
+#####
+#   D
+# C #
+   P#
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 81
+hunger: 3
+thirst: 3
+
+Enter a move: w
+#####
+#   D
+# CP#
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 80
+hunger: 4
+thirst: 4
+
+Enter a move: w
+#####
+#  PD
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 79
+hunger: 4
+thirst: 4
+
+Enter a move: a
+#####
+# P D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 78
+hunger: 4
+thirst: 4
+
+Enter a move: a
+#####
+#P  D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 77
+hunger: 4
+thirst: 4
+
+Enter a move: s
+#####
+#   D
+#PC #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 76
+hunger: 4
+thirst: 4
+
+Enter a move: s
+#####
+#   D
+# C #
+ P  #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 75
+hunger: 5
+thirst: 5
+
+Enter a move: d
+#####
+#   D
+# C #
+  P #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 74
+hunger: 5
+thirst: 5
+
+Enter a move: d
+#####
+#   D
+# C #
+   P#
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 73
+hunger: 5
+thirst: 5
+
+Enter a move: w
+#####
+#   D
+# CP#
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 72
+hunger: 5
+thirst: 5
+
+Enter a move: w
+#####
+#  PD
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 71
+hunger: 5
+thirst: 5
+
+Enter a move: a
+#####
+# P D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 70
+hunger: 6
+thirst: 6
+
+Enter a move: a
+#####
+#P  D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 69
+hunger: 6
+thirst: 6
+
+Enter a move: s
+#####
+#   D
+#PC #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 68
+hunger: 6
+thirst: 6
+
+Enter a move: s
+#####
+#   D
+# C #
+ P  #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 67
+hunger: 6
+thirst: 6
+
+Enter a move: d
+#####
+#   D
+# C #
+  P #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 66
+hunger: 6
+thirst: 6
+
+Enter a move: d
+#####
+#   D
+# C #
+   P#
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 65
+hunger: 7
+thirst: 7
+
+Enter a move: w
+#####
+#   D
+# CP#
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 64
+hunger: 7
+thirst: 7
+
+Enter a move: w
+#####
+#  PD
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 63
+hunger: 7
+thirst: 7
+
+Enter a move: a
+#####
+# P D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 62
+hunger: 7
+thirst: 7
+
+Enter a move: a
+#####
+#P  D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 61
+hunger: 7
+thirst: 7
+
+Enter a move: s
+#####
+#   D
+#PC #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 60
+hunger: 8
+thirst: 8
+
+Enter a move: s
+#####
+#   D
+# C #
+ P  #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 59
+hunger: 8
+thirst: 8
+
+Enter a move: d
+#####
+#   D
+# C #
+  P #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 58
+hunger: 8
+thirst: 8
+
+Enter a move: d
+#####
+#   D
+# C #
+   P#
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 57
+hunger: 8
+thirst: 8
+
+Enter a move: w
+#####
+#   D
+# CP#
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 56
+hunger: 8
+thirst: 8
+
+Enter a move: w
+#####
+#  PD
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 55
+hunger: 9
+thirst: 9
+
+Enter a move: a
+#####
+# P D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 54
+hunger: 9
+thirst: 9
+
+Enter a move: a
+#####
+#P  D
+# C #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 53
+hunger: 9
+thirst: 9
+
+Enter a move: s
+#####
+#   D
+#PC #
+    #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 52
+hunger: 9
+thirst: 9
+
+Enter a move: s
+#####
+#   D
+# C #
+ P  #
+#####
+---------------
+Inventory
+Coin: 2
+---------------
+HP: 51
+hunger: 9
+thirst: 9
+
+Enter a move: d
+You lose :(
